@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 02_Distributed_Financial_Sentinel/具体内容.md
 02_Distributed_Financial_Sentinel/airflow/dags/DAG_Failure_PostMortem.md
+02_Distributed_Financial_Sentinel/airflow/dags/HA_Failover_Test_Report.md
